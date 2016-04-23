@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.dll
+c:\users\admin\documents\visual studio 2015\Projects\Library\Library\bin\Debug\Library.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.dll
+c:\users\admin\documents\visual studio 2015\Projects\Library\Library\obj\Debug\Library.pdb
+C:\Users\Admin\proj1\Library\bin\Debug\Library.dll
+C:\Users\Admin\proj1\Library\bin\Debug\Library.pdb
+C:\Users\Admin\proj1\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Admin\proj1\Library\obj\Debug\Library.dll
+C:\Users\Admin\proj1\Library\obj\Debug\Library.pdb
